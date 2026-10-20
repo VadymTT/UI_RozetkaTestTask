@@ -1,0 +1,9 @@
+.build
+.idea
+/target
+/allure-results
+.allure
+.DS_Store
+build/.DS_Store
+build/reports/.DS_Store
+*.env
